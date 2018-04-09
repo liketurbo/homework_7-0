@@ -1,5 +1,7 @@
 ### Event Generator
 
+*space* O(n+m)
+
 *function on()* O(1)
 
 *function off()* O(n)
